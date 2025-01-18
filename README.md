@@ -1,109 +1,32 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Профиль GitHub</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-            line-height: 1.6;
-        }
-        header {
-            background-color: #007acc;
-            color: white;
-            padding: 20px 10px;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5em;
-        }
-        header p {
-            margin: 5px 0;
-            font-size: 1.2em;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #007acc;
-            margin-top: 20px;
-        }
-        ul {
-            padding: 0;
-            list-style-type: none;
-        }
-        ul li {
-            margin: 10px 0;
-        }
-        a {
-            color: #007acc;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 0.9em;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>👋 Привет! Я Тёма</h1>
-        <p>Добро пожаловать на мой GitHub профиль</p>
-    </header>
 
-    <div class="container">
-        <h2>👨‍💻 Обо мне</h2>
-        <ul>
-            <li><strong>Образование:</strong> НГТУ АВТФ "Информационная безопасность автоматизированных систем"(5 курс)</li>
-            <li><strong>Доп. образование:</strong>Школа 21</li>
-            <li><strong>Опыт:</strong> На данный момент работаю веб-аналитиком 4 месяца.</li>
-            <li><strong>Интересы:</strong> Программирование, web-разработка.</li>
-        </ul>
+# 💫 About Me
 
-        <h2>🛠️ Навыки</h2>
-        <ul>
-            <li><strong>Языки:</strong> С, С++, Java, JavaScript, HTML, SQL.</li>
-            <li><strong>Инструменты:</strong> Git, VSCode, Intelij IDEA.</li>
-        </ul>
+NSTU Student/School 21 student/Web-analyst at <a href="https://intelsib.ru">Intelsib</a>
 
-        <h2>🚀 Проекты</h2>
-        <p>Вот некоторые из моих проектов:</p>
-        <ul>
-            <li><a href="#">Snake</a>: Простая игра в змейку.</li>
-            <li><a href="#">BashUtilis</a>: Собственная реализация утилит grep и cat на си.</li>
-        </ul>
+## 🌐 Socials
 
-        <h2>🎯 Цели</h2>
-        <ul>
-            <li>Изучать новые технологии и делиться опытом.</li>
-            <li>Создавать решения, которые помогут другим.</li>
-        </ul>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/syhanoff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syhanoff) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/syhanoff/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/syhanoff)
 
-        <h2>📬 Контакты</h2>
-        <ul>
-            <li>📧 Email: <a href="mailto:artmaxrom@gmail.com">artmaxrom@gmail.com</a></li>
-            <li>📱 Telegram: <a href="https://t.me/artem_maxim0v">@artem_maxim0v</a></li>
-        </ul>
-    </div>
+# 💻 Tech Stack
 
-    <footer>
-        <p>Спасибо, что заглянули на мой профиль! 😊</p>
-    </footer>
-</body>
-</html>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Syhanoff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Syhanoff&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syhanoff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Syhanoff&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Syhanoff&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Syhanoff&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
